@@ -1,0 +1,33 @@
+h1 {
+    font-family:  'Akaya Kanadaka', cursive; color: rgb(12, 12, 12); font-size: 80px;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Lobster', cursive;
+    border-radius: 20px;
+    border: 10px solid rgb(240, 8, 8) ;
+    u
+}
+
+body{
+    background: #7eeee3a4;
+    background-image: url("fondo.jpg");font-size: 50px;
+    
+}
+h2{
+    font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Lobster', cursive; color: red;
+}
+
+button{
+    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Lobster', cursive;
+    border-radius: 20px;
+    border: 2px solid #0823f0;
+}
+
+a{
+    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Lobster', cursive; color: red;
+    font-size: 30px;
+
+}
+
